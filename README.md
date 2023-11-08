@@ -26,6 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/Nospiel-code/frontend-mentor-product-preview-card/assets/130290610/999881c3-8310-48d8-b86a-b7f8da6983e0)
+
 
 ### Links
 
