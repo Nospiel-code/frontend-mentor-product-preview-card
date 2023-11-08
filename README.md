@@ -69,7 +69,7 @@ A way to **name colors** following the principles of font-weight; 100 (lightest 
 
 How to set a **localy scoped custom property**. These are just available inside a certain scope. In this example just inside the article. This improves maintainability, e.g. if there need to made some changes afterwards. Defining these properties for certain classes makes it easier to find and gives the CSS a better structure.
 
-How to use the **HTML strikethrough element** to render a text with a strikethrough. For accessibility we included spans which contain text for screen readers. Altough the text is crossed out when using the <s> a screen reader doesn't distinguish a text like this from a normal one.
+How to use the **HTML strikethrough element** to render a text with a strikethrough. For accessibility we included spans which contain text for screen readers. Altough the text is crossed out when using the strikethrough a screen reader doesn't distinguish a text like this from a normal one.
 
 I also learned about the **:is() pseudo-class** which allows us to simplify groupings of selectors.
 
